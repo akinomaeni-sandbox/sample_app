@@ -21,3 +21,6 @@
 # Ignore other unneeded files.
 doc/
 .secret
+
+# Ignore database config.
+/config/database.yml
